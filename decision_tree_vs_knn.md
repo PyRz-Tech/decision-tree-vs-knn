@@ -44,3 +44,5 @@ By nature KNN is lazy and learns nothing, just measures distances
 Decision Tree sits down, thinks, and finds its own paths
 
 This is exactly my view on Decision Tree vs KNN.
+---
+[![Main Repo](https://img.shields.io/badge/Main_Repo-000000?style=flat&logo=github&logoColor=white)](README.md)
