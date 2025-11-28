@@ -1,7 +1,7 @@
 # decision-tree-vs-knn
 Why one just stores everything like a hoarder and the other builds an actual brain (and which one you should pick before you waste your life)
 
-[![read](https://img.shields.io/badge/Read_Now-0A66C2?style=flat&logo=github&logoColor=white&label=&labelColor=0A66C2&color=0A66C2)](https://github.com/PyRz-Tech/data-thinking-tips-cali-example/blob/main/decision_tree_vs_knn.md)
+[![read](https://img.shields.io/badge/Read_Now-0A66C2?style=flat&logo=github&logoColor=white&label=&labelColor=0A66C2&color=0A66C2)](https://github.com/PyRz-Tech/decision-tree-vs-knn/blob/main/decision_tree_vs_knn.md)
 <br>
 ---
 [![Back to Profile](https://img.shields.io/badge/Back_to_Profile-000000?style=flat&logo=github&logoColor=white)](https://github.com/PyRz-Tech)
